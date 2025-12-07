@@ -5,3 +5,11 @@ logs/processed.txt
 /logs
 /logs
 /logs
+/output
+/logs
+/logs
+/logs
+/logs
+logs/processing.log
+/results
+*.png
