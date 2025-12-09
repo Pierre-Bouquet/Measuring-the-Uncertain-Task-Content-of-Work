@@ -13,3 +13,5 @@ logs/processed.txt
 logs/processing.log
 /results
 *.png
+/logs
+/output
